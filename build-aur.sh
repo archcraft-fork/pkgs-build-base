@@ -19,6 +19,7 @@ LIST=(mkinitcpio-openswap
 	  aic94xx-firmware
 	  wd719x-firmware
 	  upd72020x-fw
+	  cava
 	  simplescreenrecorder
 	  ckbcomp
 	  sddm-git
