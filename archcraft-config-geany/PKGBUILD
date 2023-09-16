@@ -1,7 +1,7 @@
 # Maintainer: Aditya Shakya <adi1090x@gmail.com>
 
 pkgname=archcraft-config-geany
-pkgver=1.0
+pkgver=1.1
 pkgrel=1
 pkgdesc="Geany Config & Color-Schemes for Archcraft"
 url="https://github.com/archcraft-os/archcraft-skeleton"
