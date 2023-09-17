@@ -50,11 +50,11 @@ geany_font='JetBrains Mono 10'
 # Appearance
 gtk_font='Noto Sans 9'
 gtk_theme='Arc-Dark'
-icon_theme='Zafiro'
+icon_theme='Luna-Antidote-Dark'
 cursor_theme='Qogirr'
 
 # Openbox
-ob_theme='Arc-Dark'
+ob_theme='Nordic'
 ob_layout='DLIMC'
 ob_font='JetBrains Mono'
 ob_font_size='9'

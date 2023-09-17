@@ -8,7 +8,7 @@
 
 VERSION=1.2.9
 COVER=/tmp/kunst.jpg
-MUSIC_DIR=~/Music/
+MUSIC_DIR=~/Musique/
 SIZE=250x250
 POSITION="+0+0"
 
